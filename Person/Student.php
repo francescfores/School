@@ -6,7 +6,8 @@
  * Date: 12/10/15
  * Time: 22:16
  */
-class Student
+
+class Student extends Person
 {
 
 }
